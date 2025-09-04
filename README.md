@@ -12,7 +12,7 @@
 
 <div>  
   <h2>Um pouco sobre mim:</h2>
-  👦🏻 Tenho 29 anos <br>
+  👦🏻 Tenho 30 anos <br>
   🔎 Amo aprender e sou muito curioso <br>
   🏀 Apaixonado por esportes <br>
   🎩 Fascinado por CyberSecurity <br>
