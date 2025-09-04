@@ -1,6 +1,6 @@
 <h2>Olá, eu sou o Lucas Iniesta Simões, seja bem vindo ao meu GitHub. 😁</h2>
 
-<h3>👨‍🎓 Hoje estou cursando o terceiro período de Ciências da Computação e também realizando o curso de tecnologia da Escola DNC</h3>
+<h3>👨‍🎓 Hoje estou cursando o quarto período de Ciências da Computação e sou estágiário em Desenvolvimento Web</h3>
 
 <br>
 
